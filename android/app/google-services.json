@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708613117421",
+    "project_id": "datasync-63fc7",
+    "storage_bucket": "datasync-63fc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708613117421:android:acffa7459fdd6435b543e4",
+        "android_client_info": {
+          "package_name": "REKMED.COM"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEPwuxe24_H1SrTt5udoeSIJkTXtXjpCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
